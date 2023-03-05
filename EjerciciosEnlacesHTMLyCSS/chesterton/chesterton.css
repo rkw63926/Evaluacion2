@@ -1,0 +1,34 @@
+body{
+    background-color: #8c645c;
+    color:white;
+    font-family: sans-serif;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+.capital{
+    text-transform: capitalize;
+    font-size: x-large;
+    font-weight: bold;
+}
+.centrar{
+    text-align: center;
+}
+.botones{
+    border-style:solid;
+    color: #2c5c6d;
+    background-color: #d6edf4;
+    font-size: x-large;
+    text-transform: uppercase;
+    padding: 5px;
+    text-decoration: none;
+    margin: 7px;
+}
+img{ 
+    display: block;
+    margin: auto;
+}
+/*
+* Es la forma que he utilizado para centrar la imagen.
+*\

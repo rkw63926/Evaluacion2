@@ -1,0 +1,9 @@
+table.rojo{
+    border-collapse: collapse;
+    border: 2px solid red;
+
+}
+table.verde{
+    border-collapse: separate;
+    border: 2px solid green;
+}

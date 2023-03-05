@@ -1,0 +1,45 @@
+.circulo {
+    list-style-type: circle;
+    }
+.cuadrado {
+        list-style-type: square;
+        }    
+
+body {
+    background-color: #fdfbf1;
+    font-family: burlywood;
+    text-align: justify;
+        }
+            
+h1 {
+    background-color:#DEB887;
+    color: white;
+     font-size: 3rem;
+     text-align: center;
+      }
+                
+h2 {
+    background-color:#DEB887;
+    color: white;
+
+        }       
+h3 {
+    background-color:#DEB887;
+    color: white;
+        
+        }       
+
+dl {
+    background-color: #F0E7DB;
+    
+    border-left:5px solid #DEB887;
+}
+dt {
+    
+    font-style : small-caps; 
+    font-weight: bolder;
+}
+li::first-letter{
+    font-style: italic;
+    font-size: 1.25em;
+}

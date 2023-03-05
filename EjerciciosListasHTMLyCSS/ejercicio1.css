@@ -1,0 +1,27 @@
+div{
+    border-style: solid;
+    display:block;
+    margin: auto;
+    min-width: 60%;
+
+}
+h2{
+    color: blue;
+    padding-left: 18px;
+    font-weight: bold;
+}
+h3{
+    color: blue;
+    padding-left: 18px;
+}
+p{
+    padding-left: 18px;
+    background-color: rgb(192, 191, 191);
+    color: green;
+}
+abbr{
+    color: blue;
+}
+strong{
+    color: red;
+}

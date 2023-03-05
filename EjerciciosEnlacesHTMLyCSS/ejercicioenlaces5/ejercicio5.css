@@ -1,0 +1,9 @@
+h1{
+    background-color: greenyellow;
+    color: beige;
+}
+img:hover{
+    border-style:solid;
+    border-color: red;
+    width: 40%;
+}

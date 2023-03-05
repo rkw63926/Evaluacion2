@@ -1,0 +1,28 @@
+#wrapper{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+aside{
+    width: 27.08%;
+    float: left;
+}
+main{
+    width: 72.91%;
+    float: right;
+}
+ul{
+  list-style-type: none;
+  padding: 0cm; 
+}
+li.columna{
+    float: left;
+    width: 31%;
+    padding: 5px;
+}
+li.datos{
+    float: left;
+    width: 70%;
+    padding: 5px;
+}

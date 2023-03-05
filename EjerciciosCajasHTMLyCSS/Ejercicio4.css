@@ -1,0 +1,30 @@
+body{
+    background-color: deepskyblue;
+    font-family: sans-serif;
+}
+h1{
+    margin:0;
+    color: #04535b;
+    font-size: 4rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    float: left;
+    width: 10rem;
+    height: 10rem;
+    border: 10px dashed #04535b ;
+    margin: 10px;
+    padding: 10px;
+    background-color: #00b4cc;
+    font-size: 105%;
+    
+    font-style: oblique;
+}
+p::first-letter{
+float: left;
+color: #04535b;
+font-size: 150%;
+font-style: normal;
+line-height: 3rem;
+}

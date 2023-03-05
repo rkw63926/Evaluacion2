@@ -1,0 +1,17 @@
+/* 
+.color1 { #0e0036 };
+.color2 { #4c264b };
+.color3 { #a04f62 };
+.color4 { #d2a391 };
+.color5 { #e86d7b }; 
+*/
+body{
+    background-color:#0e0036;
+    color: #e6d7b8;
+}
+.cuadrado {
+    list-style-type: square;
+    }  
+a:hover{
+        color:#e6d7b8;
+}
